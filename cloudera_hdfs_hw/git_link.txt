@@ -1,0 +1,1 @@
+https://github.com/Andrey528/hdfs_vm_cloudera.git
